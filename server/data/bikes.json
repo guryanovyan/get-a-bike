@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Endurace CF 8",
+    "brand": "Canyon",
+    "type": "Road",
+    "img": "/images/BikeAd1_Img.jpg",
+    "curPrice": 1450,
+    "oldPrice": 2599
+  },
+  {
+    "id": 2,
+    "name": "ORCA M20 2021",
+    "brand": "Orbea",
+    "type": "Road",
+    "img": "/images/BikeAd2_Img.jpg",
+    "curPrice": 1750,
+    "oldPrice": 3099
+  },
+  {
+    "id": 3,
+    "name": "Jekyll 4 2018",
+    "brand": "Cannondale",
+    "type": "Enduro",
+    "img": "/images/BikeAd3_Img.jpg",
+    "curPrice": 999,
+    "oldPrice": 3200
+  },
+  {
+    "id": 4,
+    "name": "Pavo 1 Dura Ace",
+    "brand": "Simplon",
+    "type": "Road",
+    "img": "/images/BikeAd4_Img.jpg",
+    "curPrice": 1150,
+    "oldPrice": null
+  },
+  {
+    "id": 5,
+    "name": "Checkpoint SL 7 AXS 2023",
+    "brand": "Trek",
+    "type": "Gravel",
+    "img": "/images/BikeAd5_Img.jpg",
+    "curPrice": 3000,
+    "oldPrice": 6699
+  },
+  {
+    "id": 6,
+    "name": "Stereo hybrid Tm 160m",
+    "brand": "CUBE",
+    "type": "Enduro",
+    "img": "/images/BikeAd6_Img.jpg",
+    "curPrice": 2000,
+    "oldPrice": null
+  },
+  {
+    "id": 7,
+    "name": "Aeroad CF SLX 8 AXS 2024 Frameset",
+    "brand": "Canyon",
+    "type": "Road",
+    "img": "/images/BikeAd7_Img.jpg",
+    "curPrice": 2500,
+    "oldPrice": null
+  },
+  {
+    "id": 8,
+    "name": "AGREE C:62, RACE 2024",
+    "brand": "CUBE",
+    "type": "Road",
+    "img": "/images/BikeAd8_Img.jpg",
+    "curPrice": 2950,
+    "oldPrice": 3599
+  }
+]

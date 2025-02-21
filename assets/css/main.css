@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Syncopate:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-syncopate: "Syncopate", sans-serif;
+  --font-gruppo: "Gruppo", sans-serif;
+}
