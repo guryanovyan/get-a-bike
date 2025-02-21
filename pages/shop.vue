@@ -5,7 +5,7 @@ onMounted(async () => {
   try {
     bikes.value = await $fetch('/api/bikes');
   } catch (error) {
-    console.error('Ошибка загрузки велосипедов:', error);
+    console.error('Error loading bikes:', error);
   }
 });
 </script>
