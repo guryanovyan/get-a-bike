@@ -1,12 +1,12 @@
 <template>
-  <header class="flex items-center place-content-between mx-6 my-2">
+  <header class="flex items-center place-content-between mx-3 sm:mx-6 xl:mx-8 my-2">
     <div class="h-6 min-w-35 sm:min-w-45 border rounded-xl text-center font-[Syncopate]">
       <NuxtLink to="/">
         GET A BIKE
       </NuxtLink>
     </div>
 
-    <div class="hidden sm:flex w-full justify-end space-x-5">
+    <div class="flex w-full justify-end space-x-3 sm:space-x-5">
       <button class="font-[Syncopate] text-sm sm:text-base">
         <NuxtLink to="/shop">
           SHOP
@@ -20,7 +20,7 @@
       </FilledBtn>
     </div>
 
-    <div class="flex sm:hidden w-full justify-end space-x-5">
+    <!-- <div class="flex sm:hidden w-full justify-end space-x-5">
       <button class="font-[Syncopate] text-sm sm:text-base">
         <NuxtLink to="/shop">
           SHOP
@@ -32,6 +32,6 @@
       <FilledBtn class="text-sm sm:text-base px-3 h-7">
         LOG IN
       </FilledBtn>
-    </div>
+    </div> -->
   </header>
 </template>
